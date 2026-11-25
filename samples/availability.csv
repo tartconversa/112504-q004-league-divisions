@@ -1,0 +1,8 @@
+person,slot,cert,available,recorded
+X1,S1,fusion,yes,2026-08-01
+X1,S1,fusion,no,2026-08-05
+X1,S2,fusion,yes,2026-08-01
+X2,S1,fusion,yes,2026-08-01
+X3,S1,league,yes,2026-08-01
+X4,S3,fusion,yes,2026-08-01
+U1,S1,player,yes,2026-08-01

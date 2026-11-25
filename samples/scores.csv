@@ -1,0 +1,7 @@
+match,home,away,home_goals,away_goals,kind,day,received
+M1,T1,T2,3,2,league,2026-06-01,2026-06-01
+M2,T1,T2,1,1,league,2026-06-07,2026-06-07
+M3,T3,T4,0,1,short,2026-06-02,2026-06-02
+M4,T3,T4,,,walkover,2026-06-09,2026-06-09
+M5,T2,T4,2,4,friendly,2026-06-10,2026-08-01
+M6,T1,T3,2,3,league,2026-06-15,2026-08-05

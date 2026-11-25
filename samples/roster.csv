@@ -1,0 +1,9 @@
+person,team,from_day,to_day,kind,group
+U1,T1,2026-05-01,,player,
+U1,T5,2026-07-01,,player,
+U2,T2,2026-05-01,2026-06-30,player,G1
+U2,T5,2026-07-01,,player,G1
+U3,T4,2026-05-01,2026-06-30,player,G1
+U3,T5,2026-07-01,,player,G1
+U4,T3,2026-05-01,,player,
+U5,T6,2026-07-01,,player,

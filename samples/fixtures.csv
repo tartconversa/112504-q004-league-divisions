@@ -1,0 +1,4 @@
+fixture,home,away,slot,state
+G1,T1,T2,S1,announced
+G2,T3,T5,S2,planned
+G3,T5,T6,S3,trial

@@ -1,0 +1,7 @@
+team,division,prev_teams,roster_size,assist_rule,state
+T1,north,,6,one,active
+T2,north,,6,one,active
+T3,south,,5,two,active
+T4,south,,5,one,active
+T5,north,T2|T4,7,two,new
+T6,south,,6,two,new
